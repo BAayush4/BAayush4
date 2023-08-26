@@ -1,4 +1,4 @@
-![logo](https://github.com/BAayush4/BAayush4/blob/main/AYUSH%20BAURAI.png)
+![logo](https://github.com/BAayush4/BAayush4/blob/main/AAYUSH.png)
 <h1 align="center">Hi 👋, I'm Ayush Baurai</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right"alt="coding"width="400"src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
